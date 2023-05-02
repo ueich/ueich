@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning new things about the world while using data. So far, I focused on econ problems and have have a solid background in causal inference, which I am now applying to new problems in the private sector.
 - 🌱 I’m currently learning to make use of all of my causal inference knowledge in python.
 - 💞️ I’m looking to collaborate on causal problems and making the transition to python easier for people with an econ background.
-- 📫 Contact me directly here on github :)
+- 📫 Contact me on LinkedIn
